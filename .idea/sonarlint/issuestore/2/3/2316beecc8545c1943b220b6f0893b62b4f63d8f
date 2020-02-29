@@ -1,0 +1,17 @@
+
+vsquid:S001160"RRename this field "post_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥µö­øÿÿÿÿ8„âÓÆş-
+tsquid:S1450,"VRemove the "addPost" field and declare it as a local variable in the relevant methods.(øá§Õ8„âÓÆş-
+Qsquid:S1199º"-Extract this nested code block into a method.(àÊÊûÿÿÿÿ8›Ü‘Îş-
+osquid:S1301³"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8›Ü‘Îş-
+o
+squid:S128´"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8›Ü‘Îş-
+Wsquid:S10682"4Remove this unused "currentPhotoPath" private field.(€Óêüşÿÿÿÿ8„âÓÆş-
+lsquid:S00101'"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öÀõ8„âÓÆş-
+4squid:S1700,"Rename field "addPost"(øá§Õ8„âÓÆş-
+‚squid:S14502"_Remove the "currentPhotoPath" field and declare it as a local variable in the relevant methods.(€Óêüşÿÿÿÿ8„âÓÆş-
+ysquid:S14500"VRemove the "post_id" field and declare it as a local variable in the relevant methods.(¥µö­øÿÿÿÿ8„âÓÆş-
+psquid:S37764"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ï ±ª8„âÓÆş-
+}squid:S1450."ZRemove the "takePicture" field and declare it as a local variable in the relevant methods.(Š×‚¦üÿÿÿÿ8ÉÇÆş-
+vsquid:S1450("XRemove the "loadImage" field and declare it as a local variable in the relevant methods.(¦·‡û8„âÓÆş-
+vsquid:S1450/"SRemove the "code" field and declare it as a local variable in the relevant methods.(ßı²’ÿÿÿÿÿ8İô•ş-
+]"squid:SwitchLastCaseIsDefaultCheck³""Add a default case to this switch.(×ö³–úÿÿÿÿ8›Ü‘Îş-

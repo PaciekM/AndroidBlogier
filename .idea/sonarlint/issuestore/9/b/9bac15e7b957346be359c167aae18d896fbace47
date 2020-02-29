@@ -1,0 +1,8 @@
+
+Qsquid:S3077".Remove the "volatile" keyword from this field.(è¶Ù§ÿÿÿÿÿ8”×éëí-
+vsquid:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¶Ù§ÿÿÿÿÿ8”×éëí-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äÉÂîşÿÿÿÿ
+\squid:UselessImportCheck",Remove this unused import 'android.net.Uri'.(òêû‘ıÿÿÿÿ8“¯úŞş-
+]squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8œá’î-
+dsquid:UselessImportCheck"4Remove this unused import 'android.database.Cursor'.(Ôäåúÿÿÿÿ8è¢£‘î-
+Fsquid:S14812"(Remove this unused "dao" local variable.(Õ³’8“¯úŞş-

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bloggg"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingTop="300dp"
+    tools:context=".ui.loginscreen.loginActivity">
+
+    <EditText
+        android:id="@+id/login"
+        android:layout_width="243dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="10dp"
+        android:autofillHints=""
+        android:background="@drawable/shape"
+        android:padding="10dp"
+        android:hint="@string/login_label"
+        android:inputType="text"
+        android:textColor="@color/editText_color"
+        android:textColorHint="@color/editText_color" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="243dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/shape"
+        android:padding="10dp"
+        android:inputType="textPassword"
+        android:textColor="@color/editText_color"
+        android:textColorHint="@color/editText_color"
+        android:hint="@string/password_label"/>
+
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="243dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@color/buttonColor"
+        android:text="@string/login_button"
+        android:textColor="@color/buttonTextColor" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:text="@string/register_label"
+        android:textColor="@color/buttonTextColor"
+        android:textSize="18sp" />
+
+
+    <Button
+        android:id="@+id/registerButton"
+        android:layout_width="243dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@color/buttonColor"
+        android:text="@string/register_link"
+        android:textColor="@color/buttonTextColor" />
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/sign_in_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

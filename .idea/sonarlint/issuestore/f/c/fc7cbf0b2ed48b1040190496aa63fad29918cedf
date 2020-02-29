@@ -1,0 +1,12 @@
+
+usquid:S00117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ²†‘ıÿÿÿÿ8ş’¸úı-
+]squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8ş’¸úı-
+fsquid:UselessImportCheck";Remove this unused import 'com.example.blogier.navigation'.(¨¹­­8¸«®äı-
+Ysquid:S2696,"6Make the enclosing method "static" or remove this set.(õ’Ëòûÿÿÿÿ8¬‡·úı-
+}squid:S1450 "ZRemove the "changeEmail" field and declare it as a local variable in the relevant methods.(ßÙºüÿÿÿÿ8ÍºŞäı-
+€squid:UselessImportCheck"PRemove this unused import 'com.example.blogier.ui.loginscreen.registerActivity'.(û÷ÿìÿÿÿÿÿ8ù„áåı-
+esquid:UselessImportCheck"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ8ÿÌ¯äı-
+xsquid:S1450"ZRemove the "changeLogin" field and declare it as a local variable in the relevant methods.(¼Ìñù8Ïëßçı-
+usquid:S00117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ› Èşÿÿÿÿ8êàçı-
+vsquid:S1450!"SRemove the "back" field and declare it as a local variable in the relevant methods.(ƒøè£ùÿÿÿÿ8Ü¤ßäı-
+…squid:UselessImportCheck"URemove this unused import 'com.example.blogier.ui.loginscreen.loginActivity.UserTag'.(éÊ›úÿÿÿÿ8Ì±·úı-

@@ -1,0 +1,9 @@
+
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ıÆ§š8˜ä¹‹î-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8‚ğõŞş-
+Ssquid:S2696&"6Make the enclosing method "static" or remove this set.(†êÊv8Ò½•î-
+hsquid:UselessImportCheck"8Remove this unused import 'androidx.lifecycle.Observer'.(ÒÁˆÉşÿÿÿÿ8‚ğõŞş-
+usquid:S001170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ²†‘ıÿÿÿÿ8ÅªÙî-
+usquid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×æ¤âşÿÿÿÿ8˜ä¹‹î-
+rsquid:UselessImportCheck"BRemove this unused import 'androidx.lifecycle.ViewModelProviders'.(ê· ºÿÿÿÿÿ8‚ğõŞş-
+usquid:S3776#"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Û½Ê€şÿÿÿÿ8»¿Ôğ-

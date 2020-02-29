@@ -1,0 +1,8 @@
+
+vsquid:S1450"SRemove the "back" field and declare it as a local variable in the relevant methods.(ƒøè£ùÿÿÿÿ8ù‡‚Òı-
+qsquid:S1450 "SRemove the "text" field and declare it as a local variable in the relevant methods.(·Ú€Ö8Áğ±úı-
+fsquid:UselessImportCheck";Remove this unused import 'com.example.blogier.navigation'.(¨¹­­8®™Òı-
+]squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8ï¨±úı-
+xsquid:S1450"URemove the "delete" field and declare it as a local variable in the relevant methods.(Ù†…ùÿÿÿÿ8áÊîÑı-
+Ysquid:S2696&"6Make the enclosing method "static" or remove this set.(õ’Ëòûÿÿÿÿ8Áğ±úı-
+…squid:UselessImportCheck"URemove this unused import 'com.example.blogier.ui.loginscreen.loginActivity.UserTag'.(éÊ›úÿÿÿÿ8Áğ±úı-

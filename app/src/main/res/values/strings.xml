@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Bloger</string>
+    <string name="title_activity_navigation">navigation</string>
+    <string name="action_settings">Settings</string>
+    <!-- labels -->
+    <string name="login">Log in </string>
+    <string name="register">Register</string>
+    <!-- login -->
+    <string name="login_label">Login</string>
+    <string name="password_label">Password</string>
+    <string name="register_label">Dont have an account?</string>
+    <string name="register_link">REGISTER</string>
+    <string name="login_button">Log in</string>
+    <string name="login_success">U Signed In successfully</string>
+    <string name="login_failed">"U did not signed in"</string>
+    <!-- registration -->
+    <string name="register_button">Sign up</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="register_email">Email</string>
+    <string name="register_successful">Signed up successfully!</string>
+    <!-- errors -->
+    <string name="password_error_length">The password should contain at least 5 characters</string>
+    <string name="password_error_match">Repeat password does not match</string>
+    <string name="email_error">Wrong email address</string>
+    <string name="wrong_data">Incorrect password or login!</string>
+    <string name="data_repeat">Login or email is already taken</string>
+    <string name="errorExist">Login exist, find another</string>
+    <string name="errorMail">Wrong mail form or incorrect mail repeat</string>
+    <!-- menu -->
+    <string name="menu_account">Account</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_tools">Settings</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_logout">Log out</string>
+
+    <string name="loadImage">Load image</string>
+    <!-- tools -->
+    <string name="darkMode">Dark mode</string>
+    <string name="FAQ">FAQ</string>
+    <!-- profile -->
+    <string name="editAccount">Edit your account</string>
+    <string name="changePassword">Change your password</string>
+    <string name="deleteAccount">Delete account</string>
+    <string name="changeAvatar">Change avatar</string>
+    <string name="changePasswordButton">Change password</string>
+    <string name="passwordUpdated">Password updated</string>
+    <string name="deleteNote">Note: this process is irreversible!</string>
+    <string name="deleteButton">Delete my account</string>
+    <string name="deleteQuestion">Are you sure to delete your account?</string>
+    <string name="deleteSecondOption">If no, click the button below to go back to profile section</string>
+    <string name='deleteBack'>Back to profile</string>
+    <string name="deleteSuccessful">Deleted successfully</string>
+    <string name="editLogin">Edit my login</string>
+    <string name="emailRepeat">Repeat email</string>
+    <string name="emailEdit">Edit my email</string>
+    <string name="loginInfo">Change your login</string>
+    <string name="emailInfo">Change your email</string>
+    <string name="loginEdited">Login edited successfully</string>
+    <string name="newLogin">Use your new login to sign in</string>
+    <string name="mailEdited">Mail edited successfully</string>
+    <string name="emailExist">Email exists!</string>
+    <string name="avatarChanged">Avatar changed! If you want to see it, log out.</string>
+    <string name="titlePost">Title</string>
+    <string name="addPost">Add post</string>
+    <string name="content">Content</string>
+    <string name="postImageAdded">Post image added</string>
+    <string name="myPosts">My posts</string>
+    <string name="deleteInfo">Are you sure to delete post?</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back to home</string>
+    <string name="takePicture">Take picture</string>
+    <string name="or">OR</string>
+    <string name="fromGallery">Gallery</string>
+    <string name="fromCamera">Camera</string>
+    <string name="questionWhere">From where you want to add avatar?</string>
+    <string name="dear">Dear</string>
+    <string name="postCreated">Post created successfully</string>
+    <string name="postCreatedError">Post creating error</string>
+    <string name="postEdit">Post edited successfully</string>
+    <string name="postEditError">Post editing error</string>
+    <string name="postWritten">posts written</string>
+</resources>

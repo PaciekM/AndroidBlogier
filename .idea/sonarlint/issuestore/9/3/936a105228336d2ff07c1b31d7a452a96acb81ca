@@ -1,0 +1,10 @@
+
+]squid:UselessImportCheck"3Remove this unused import 'android.content.Intent'.(³ğ‹G8¶Æğºş-
+osquid:UselessImportCheck"DRemove this unused import 'com.example.blogier.navigation.ImageUri'.(¦ºÛ8¼›Ê˜ş-
+dsquid:UselessImportCheck"9Remove this unused import 'com.squareup.picasso.Picasso'.(£œ¿×8éÉÊñı-
+~squid:S1450"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ıÿÿÿÿ8Æ¨”õı-
+fsquid:UselessImportCheck";Remove this unused import 'com.example.blogier.ui.addPost'.(•µá†8È€òºş-
+csquid:UselessImportCheck"3Remove this unused import 'android.text.TextUtils'.(û˜½Õøÿÿÿÿ8éÉÊñı-
+hsquid:UselessImportCheck"8Remove this unused import 'androidx.lifecycle.Observer'.(ÒÁˆÉşÿÿÿÿ8÷Úò€ú-
+dsquid:UselessImportCheck"9Remove this unused import 'androidx.annotation.Nullable'.(¾Èêš8÷Úò€ú-
+rsquid:UselessImportCheck"BRemove this unused import 'androidx.lifecycle.ViewModelProviders'.(ê· ºÿÿÿÿÿ8¶Ø¦ğı-

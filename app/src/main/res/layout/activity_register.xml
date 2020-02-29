@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bloggg"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingTop="300dp"
+    tools:context=".ui.loginscreen.registerActivity">
+
+    <EditText
+        android:id="@+id/register_login"
+        android:background="@drawable/shape"
+        android:layout_width="244dp"
+        android:layout_marginBottom="10dp"
+        android:inputType="text"
+        android:padding="10dp"
+        android:hint="@string/login_label"
+        android:layout_height="wrap_content"
+        android:importantForAutofill="no"
+        android:textColor="@color/editText_color"
+        android:textColorHint="@color/editText_color"/>
+
+    <EditText
+        android:id="@+id/register_email"
+        android:background="@drawable/shape"
+        android:layout_width="244dp"
+        android:layout_marginBottom="10dp"
+        android:inputType="text"
+        android:padding="10dp"
+        android:hint="@string/register_email"
+        android:layout_height="wrap_content"
+        android:importantForAutofill="no"
+        android:textColor="@color/editText_color"
+        android:textColorHint="@color/editText_color" />
+
+    <EditText
+        android:id="@+id/register_password"
+        android:layout_width="243dp"
+        android:layout_height="wrap_content"
+        android:importantForAutofill="no"
+        android:inputType="textPassword"
+        android:background="@drawable/shape"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp"
+        android:hint="@string/password_label"
+        android:textColor="@color/editText_color"
+        android:textColorHint="@color/editText_color"/>
+
+    <EditText
+        android:id="@+id/register_password2"
+        android:layout_width="243dp"
+        android:layout_height="wrap_content"
+        android:autofillHints=""
+        android:inputType="textPassword"
+        android:background="@drawable/shape"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp"
+        android:hint="@string/repeat_password"
+        android:importantForAutofill="no"
+        android:textColor="@color/editText_color"
+        android:textColorHint="@color/editText_color"/>
+
+    <Button
+        android:id="@+id/registerButton"
+        android:layout_width="243dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@color/buttonColor"
+        android:text="@string/register_button"
+        android:textColor="@color/buttonTextColor" />
+
+</LinearLayout>

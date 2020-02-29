@@ -1,0 +1,5 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äÉÂîşÿÿÿÿ
+qsquid:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­µÊÊ8×¼×ùù-
+Lsquid:S3077".Remove the "volatile" keyword from this field.(­µÊÊ8×¼×ùù-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å÷Şä8›Úùù-

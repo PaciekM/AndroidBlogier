@@ -1,0 +1,45 @@
+
+psquid:S00117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñªØ8ªüÀŞş-
+’"squid:ClassVariableVisibilityCheck<"XMake postDatabase a static final constant or non-public and provide accessors if needed.(‹ì¬çúÿÿÿÿ8œÇŸôı-
+rsquid:S3008@"TRename this field "LoginType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¸Œæ8äí»Şş-
+}squid:S1450:"ZRemove the "logoutCheck" field and declare it as a local variable in the relevant methods.(àŞ®şÿÿÿÿ8äí»Şş-
+Ysquid:S2696x"6Make the enclosing method "static" or remove this set.(½‹¼îùÿÿÿÿ8êÏİúı-
+Zsquid:S2696‚"6Make the enclosing method "static" or remove this set.(½‹¼îùÿÿÿÿ8ªüÀŞş-
+Vsquid:S10682"8Remove this unused "mAppBarConfiguration" private field.(ÒËşØ8äí»Şş-
+"squid:ClassVariableVisibilityCheck;"XMake userDatabase a static final constant or non-public and provide accessors if needed.( ¬£Ë8±Äöëı-
+squid:S14502"cRemove the "mAppBarConfiguration" field and declare it as a local variable in the relevant methods.(ÒËşØ8¦–³õı-
+Psquid:S1444;"2Make this "public static userDatabase" field final( ¬£Ë8±Äöëı-
+Qsquid:S1444=".Make this "public static userName" field final(Œªâëûÿÿÿÿ8¦–³õı-
+}squid:S14508"ZRemove the "personPhoto" field and declare it as a local variable in the relevant methods.(¶«±úÿÿÿÿ8äí»Şş-
+Ysquid:S2696w"6Make the enclosing method "static" or remove this set.(‡Ñşÿÿÿÿ8ªüÀŞş-
+Tsquid:S2696y"6Make the enclosing method "static" or remove this set.(›ŠœÏ8äí»Şş-
+wsquid:S14504"TRemove the "email" field and declare it as a local variable in the relevant methods.(Û²°âÿÿÿÿÿ8ëšş€ó-
+Msquid:S1444@"/Make this "public static LoginType" field final(Ø¸Œæ8äí»Şş-
+psquid:S3008>"SRename this field "ImageUri" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬õë8äí»Şş-
+Šsquid:S1845="gRename field "userName" to prevent any misunderstanding/clash with field "username" defined on line 51.(Œªâëûÿÿÿÿ8äí»Şş-
+Ysquid:S2696P"6Make the enclosing method "static" or remove this set.(ò´Í×ûÿÿÿÿ8äí»Şş-
+Ysquid:S2696m"6Make the enclosing method "static" or remove this set.(¯ı¦ùÿÿÿÿ8ªüÀŞş-
+]"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8ªüÀŞş-
+Ksquid:S1444>".Make this "public static ImageUri" field final(¬õë8äí»Şş-
+vsquid:S1450A"SRemove the "acct" field and declare it as a local variable in the relevant methods.(±ÆÉÙıÿÿÿÿ8“ïÅŞş-
+~squid:S2637Ö"ZParameter 2 to this call is marked "androidx.annotation.NonNull" but null could be passed.(¤ò£÷ùÿÿÿÿ8ªüÀŞş-
+xsquid:S14505"URemove the "avatar" field and declare it as a local variable in the relevant methods.(¾’÷îúÿÿÿÿ8äí»Şş-
+Vsquid:S2589Ì"7Remove this expression which always evaluates to "true"(Œ×¢Ù8ªüÀŞş-
+Fsquid:S1604D"(Make this anonymous inner class a lambda(Äëæ¸8äí»Şş-
+vsquid:ModifiersOrderCheck?"EReorder the modifiers to comply with the Java Language Specification.(–¹Ó˜ÿÿÿÿÿ8äí»Şş-
+¥squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œƒƒ©ùÿÿÿÿ8ªüÀŞş-
+lsquid:S001010"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ß’÷°8äí»Şş-
+ˆ"squid:ClassVariableVisibilityCheck>"TMake ImageUri a static final constant or non-public and provide accessors if needed.(¬õë8äí»Şş-
+Š"squid:ClassVariableVisibilityCheck@"UMake LoginType a static final constant or non-public and provide accessors if needed.(Ø¸Œæ8äí»Şş-
+Ysquid:S2696n"6Make the enclosing method "static" or remove this set.(ú¤€Øøÿÿÿÿ8¦–³õı-
+~squid:S00115?"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–¹Ó˜ÿÿÿÿÿ8äí»Şş-
+"squid:ClassVariableVisibilityCheck="TMake userName a static final constant or non-public and provide accessors if needed.(Œªâëûÿÿÿÿ8¦–³õı-
+Gsquid:S1604’"(Make this anonymous inner class a lambda(Ëš›Ì8ªüÀŞş-
+Tsquid:S2696o"6Make the enclosing method "static" or remove this set.(‹ÅáÚ8äí»Şş-
+Gsquid:S1148Ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ªüÀŞş-
+Ssquid:S2696O"6Make the enclosing method "static" or remove this set.(†êÊv8ô»çëı-
+Usquid:S1444<"2Make this "public static postDatabase" field final(‹ì¬çúÿÿÿÿ8œÇŸôı-
+Ksquid:S1481|"-Remove this unused "personId" local variable.(é¶¤›8ªüÀŞş-
+Zsquid:S1854|"<Remove this useless assignment to local variable "personId".(é¶¤›8ªüÀŞş-
+osquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8ªüÀŞş-
+usquid:S14503"WRemove the "username" field and declare it as a local variable in the relevant methods.(‹º¢8â÷œúı-

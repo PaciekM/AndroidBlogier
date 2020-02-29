@@ -1,0 +1,4 @@
+
+…"squid:ClassVariableVisibilityCheckU"PMake post a static final constant or non-public and provide accessors if needed.(»¡ìÄ8Ùéõ›þ-
+qsquid:S00101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©êæ’þÿÿÿÿ8ýÇ¸›þ-
+~squid:S1450!"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ýÿÿÿÿ8ýÇ¸›þ-

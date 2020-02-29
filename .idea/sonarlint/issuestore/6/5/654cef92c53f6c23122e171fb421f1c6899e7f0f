@@ -1,0 +1,5 @@
+
+vsquid:S00116!"RRename this field "post_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥µö­øÿÿÿÿ8çõ¿ùù-
+[squid:UselessImportCheck"0Remove this unused import 'android.media.Image'.(ëïøÂ8Ìõ¦ùù-
+]squid:S1118":Add a private constructor to hide the implicit public one.(İœË®úÿÿÿÿ8©¦Éú-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äÉÂîşÿÿÿÿ8·Î¶ùù-

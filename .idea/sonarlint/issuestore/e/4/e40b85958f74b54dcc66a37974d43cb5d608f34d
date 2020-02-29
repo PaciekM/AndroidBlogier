@@ -1,0 +1,16 @@
+
+vsquid:S1450""XRemove the "nameLabel" field and declare it as a local variable in the relevant methods.(¾™È8³¹Ñı-
+zsquid:S1450&"]Remove the "changePassword" field and declare it as a local variable in the relevant methods.(ö¬Ì8üªäı-
+zsquid:S3008*"\Rename this field "RESULT_LOAD_IMAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÁéŞ8ªì™êı-
+\"squid:SwitchLastCaseIsDefaultChecky""Add a default case to this switch.(×ö³–úÿÿÿÿ8Æä¯úı-
+ysquid:S1450#"VRemove the "accInfo" field and declare it as a local variable in the relevant methods.(úÛœ¯ûÿÿÿÿ8³¹Ñı-
+nsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(¸Ş–’üÿÿÿÿ8„úı-
+}squid:S1450%"ZRemove the "editAccount" field and declare it as a local variable in the relevant methods.(¨–¼­ûÿÿÿÿ8³¹Ñı-
+ksquid:HiddenFieldCheckY"BRename "changePassword" which hides the field declared at line 38.(¿‹ö¾8ªì™êı-
+zsquid:S1450'"\Remove the "deleteAccount" field and declare it as a local variable in the relevant methods.(¢®õÒ8ªì™êı-
+Usquid:S1444*"7Make this "public static RESULT_LOAD_IMAGE" field final( ÁéŞ8Àë¤óı-
+Nsquid:S1068("+Remove this unused "getName" private field.(†ã¡üÿÿÿÿ8ûœ¬úı-
+’"squid:ClassVariableVisibilityCheck*"]Make RESULT_LOAD_IMAGE a static final constant or non-public and provide accessors if needed.( ÁéŞ8Àë¤óı-
+Ksquid:S1068)"-Remove this unused "getAvatar" private field.(µíÍ·8Ğá úı-
+nsquid:S1301y"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8Æä¯úı-
+ysquid:S1450$"[Remove the "changeAvatar" field and declare it as a local variable in the relevant methods.(ÛÉˆ8³¹Ñı-

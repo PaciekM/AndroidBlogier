@@ -1,0 +1,20 @@
+
+”"squid:ClassVariableVisibilityCheck"_Make mGoogleSignInClient a static final constant or non-public and provide accessors if needed.(ºòöî8ı³ÎŞş-
+vsquid:S3008""SRename this field "EmailTag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯—‹áûÿÿÿÿ8üŸ©×ğ-
+"squid:ClassVariableVisibilityCheck!"SMake UserTag a static final constant or non-public and provide accessors if needed.(ˆ³§£ıÿÿÿÿ8üŸ©×ğ-
+Psquid:S1444!"-Make this "public static UserTag" field final(ˆ³§£ıÿÿÿÿ8üŸ©×ğ-
+„squid:S1845$"aRename field "Login" to prevent any misunderstanding/clash with field "login" defined on line 26.(°óŸ¢ıÿÿÿÿ8ÿÎ“ó-
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´ï–ÿÿÿÿÿ8´¯´±ì-
+nsquid:S1301l"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ8ÿÎ“ó-
+Ysquid:S2696N"6Make the enclosing method "static" or remove this set.(¯×ÄÄıÿÿÿÿ8…ªĞŞş-
+usquid:S3008!"RRename this field "UserTag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ³§£ıÿÿÿÿ8üŸ©×ğ-
+wsquid:S00116"XRename this field "register_link" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÜÃ§8´¯´±ì-
+\"squid:SwitchLastCaseIsDefaultCheckl""Add a default case to this switch.(×“¾ñùÿÿÿÿ8ÿÎ“ó-
+~squid:S00115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°óŸ¢ıÿÿÿÿ8ÿÎ“ó-
+bsquid:HiddenFieldCheck]"9Rename "login" which hides the field declared at line 26.(åÉÿ£8ÿÎ“ó-
+"squid:ClassVariableVisibilityCheck""TMake EmailTag a static final constant or non-public and provide accessors if needed.(¯—‹áûÿÿÿÿ8üŸ©×ğ-
+vsquid:S00116"WRename this field "login_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÈÍİ8ò‡×šì-
+Qsquid:S1444"".Make this "public static EmailTag" field final(¯—‹áûÿÿÿÿ8üŸ©×ğ-
+Wsquid:S1444"9Make this "public static mGoogleSignInClient" field final(ºòöî8…ªĞŞş-
+vsquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(‚Šñäşÿÿÿÿ8óŞ¥ÿò-
+vsquid:ModifiersOrderCheck$"EReorder the modifiers to comply with the Java Language Specification.(°óŸ¢ıÿÿÿÿ8ÿÎ“ó-

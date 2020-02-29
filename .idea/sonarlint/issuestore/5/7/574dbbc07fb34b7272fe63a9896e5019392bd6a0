@@ -1,0 +1,14 @@
+
+ysquid:S1450%"[Remove the "authorAvatar" field and declare it as a local variable in the relevant methods.(ÈÂç„8Ã÷ìºþ-
+vsquid:UselessImportCheck"KRemove this unused import 'com.example.blogier.ui.profile.ProfileFragment'.(ó¥æÙ8‹Ç§Èþ-
+|squid:S1450!"YRemove the "authorView" field and declare it as a local variable in the relevant methods.(©ËöÁùÿÿÿÿ8¡Žêºþ-
+squid:S1450&"\Remove the "postImageView" field and declare it as a local variable in the relevant methods.(ÕÙ»Ùùÿÿÿÿ8Ã÷ìºþ-
+zsquid:S1450""\Remove the "postTiTleView" field and declare it as a local variable in the relevant methods.(ÏóÒþ8¡Žêºþ-
+|squid:S1450$"^Remove the "postContentView" field and declare it as a local variable in the relevant methods.(—°«þ8¡Žêºþ-
+ssquid:S1450'"URemove the "button" field and declare it as a local variable in the relevant methods.(ÈòÉ¹8Ã÷ìºþ-
+_squid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(©Ê‰è8ÿâÜºþ-
+isquid:S1192>"FDefine a constant instead of duplicating this literal "https" 3 times.(·Îš½üÿÿÿÿ8‹Ç§Èþ-
+esquid:UselessImportCheck":Remove this unused import 'android.widget.CompoundButton'.(®½¤Þ8ß›Ž»þ-
+ysquid:S1450#"[Remove the "postDateView" field and declare it as a local variable in the relevant methods.(±åŸ®8¡Žêºþ-
+msquid:UselessImportCheck"=Remove this unused import 'android.view.ContextThemeWrapper'.(ÜÎ¹„úÿÿÿÿ8ß›Ž»þ-
+tsquid:S1450("QRemove the "id" field and declare it as a local variable in the relevant methods.(ôç¼Óþÿÿÿÿ8ß›Ž»þ-

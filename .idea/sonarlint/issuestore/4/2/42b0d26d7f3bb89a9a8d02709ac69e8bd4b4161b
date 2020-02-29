@@ -1,0 +1,8 @@
+
+^squid:UselessImportCheck":Remove this unused import 'android.widget.CompoundButton'.(®½¤Þ
+Rsquid:S2696*"6Make the enclosing method "static" or remove this set.(õ’Ëòûÿÿÿÿ
+fsquid:UselessImportCheck"=Remove this unused import 'android.view.ContextThemeWrapper'.(ÜÎ¹„úÿÿÿÿ
+lsquid:S1450"URemove the "button" field and declare it as a local variable in the relevant methods.(ÈòÉ¹
+ysquid:UselessImportCheck"PRemove this unused import 'com.example.blogier.ui.loginscreen.registerActivity'.(û÷ÿìÿÿÿÿÿ
+bsquid:UselessImportCheck">Remove this unused import 'android.provider.ContactsContract'.(üç§±
+Xsquid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(©Ê‰è

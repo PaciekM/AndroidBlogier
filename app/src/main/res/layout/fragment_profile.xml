@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/avatar"
+        android:layout_width="146dp"
+        android:layout_height="133dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/nameLabel"
+        android:layout_width="250dp"
+        android:layout_height="28dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/accInfo"
+        android:layout_width="378dp"
+        android:layout_height="31dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:text="TextView"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/changeAvatar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/changeAvatar"
+        android:background="@color/buttonColor"
+        android:textColor="@color/buttonTextColor"/>
+
+    <Button
+        android:id="@+id/editAccount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/editAccount"
+        android:background="@color/buttonColor"
+        android:textColor="@color/buttonTextColor"/>
+
+    <Button
+        android:id="@+id/changePassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/changePassword"
+        android:background="@color/buttonColor"
+        android:textColor="@color/buttonTextColor"/>
+
+    <Button
+        android:id="@+id/deleteAccount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/deleteAccount"
+        android:background="@color/buttonColor"
+        android:textColor="@color/buttonTextColor"/>
+</LinearLayout>

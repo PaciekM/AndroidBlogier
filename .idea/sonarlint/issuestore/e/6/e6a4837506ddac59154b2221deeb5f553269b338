@@ -1,0 +1,4 @@
+
+usquid:S00117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÁ™ıÿÿÿÿ8ßŒœş-
+isquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(Ğì¤Ê8ïšş-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äÉÂîşÿÿÿÿ
